@@ -11,10 +11,10 @@ bower install backTop
 
 ## How to use
 
-- Include ```<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>``` just before the ```</body>``` tag
-- Include ```html <script src="PATH TO YOUR JS DIRECTORY/jquery.backTop.js"></script> ``` after the jquery include.
-- Include ```html <a id='backTop'>Back To Top</a> ``` within your ```html ```<body></body> ```tag
-- Include ```html<link href="css/backTop.css" rel="stylesheet" type="text/css" /> ```before the ```</head>``` tag.
+- Include ``` <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>``` just before the ```</body>``` tag
+- Include ``` <script src="PATH TO YOUR JS DIRECTORY/jquery.backTop.js"></script> ``` after the jquery include.
+- Include ``` <a id='backTop'>Back To Top</a> ``` within your ```html ```<body></body> ``` tag
+- Include ``` <link href="css/backTop.css" rel="stylesheet" type="text/css" /> ``` before the ```</head>``` tag.
 
 ### Minimum setup
 
